@@ -1,0 +1,4 @@
+Linear Regression,0.086775,0.074354,0.533434
+Support Vector Regression,0.075755,0.065457,0.573357
+Random Forest Regression,0.040569,0.035347,0.754224
+XGBoost Regression,0.024458,0.015446,0.885643
